@@ -142,7 +142,7 @@ BIDB85,Tax exempt,Indicates whether a business is a tax exempt organization,Bank
 BIDB9,Sequence,Code indicating whether the case is an original filing or a first or subsequent reopening,Bankruptcy Petition Newstats Snapshots Database
 CiIDB1,Record quality indicator,This field is used to quantify the accuracy of the record. The evaluation programming has not yet been implemented; therefore this field is always blank.,Civil Integrated Database
 CiIDB10,Termination date,"The date the case was closed in district court. This is the date of the final judgment or of the order disposing of the action. If the case was transferred, the date of transfer is the termination date.",Appeals Integrated Database; Civil Integrated Database; Criminal Integrated Database
-CiIDB11,Filing date used by AO,"The statistical date when the filing entered the master AO record. The date used by the AO to assign the case to a ""statistical year filed"" cohort.",Civil Integrated Database
+CiIDB11,Filing date used by AO,"The statistical date when the filing entered the master AO record. The date used by the AO to assign the case to a 'statistical year filed' cohort.",Civil Integrated Database
 CiIDB12,Termination magistrate,Blank on public use files,Civil Integrated Database
 CiIDB13,Procedural progress,Procedural progress at termination,Civil Integrated Database
 CiIDB14,Nature of judgment,The nature of the judgment for those actions disposed of by the entry of a final judgment,Civil Integrated Database
@@ -150,7 +150,7 @@ CiIDB15,Amount received,The monetary judgment amount awarded (excluding costs) i
 CiIDB16,Judgment for,Identifies the party favored by the judgment of the court for actions disposed of by the entry of a final judgment.,Civil Integrated Database
 CiIDB17,Magistrate involvement,Level of involvement of the U.S. magistrate,Civil Integrated Database
 CiIDB18,Other Involvement,Involvement in the case of persons other than judge or magistrate,Civil Integrated Database
-CiIDB19,Termination date used by AO,"The statistical date when the termination entered the AO master record. The date used by the AO to assign the case to a ""statistical year terminated"" cohort.",Civil Integrated Database
+CiIDB19,Termination date used by AO,"The statistical date when the termination entered the AO master record. The date used by the AO to assign the case to a 'statistical year terminated' cohort.",Civil Integrated Database
 CiIDB2,Residence,"Describes the citizenship of the principal parties in cases in which diversity of citizenship is the basis of federal jurisdiction (JURISDICTION value of 4). The two-digit code is a composite of a single-digit plaintiff's code and a single-digit defendant's code (that is, a 1 for plaintiff and a 3 for defendant yields a residence code of 13).",Civil Integrated Database
 CiIDB3,Class action,"Class Action allegation under Rule 23, Federal Rules of Civil Procedure.",Civil Integrated Database
 CiIDB4,Filing judge,Blank on public use files,Civil Integrated Database
