@@ -1,6 +1,6 @@
 # 🏦 Ontology repository
 
-This repository hosts the ontologies available on the [Sartori]() website. Each folder contains an ontology.
+This repository hosts the ontologies available on the [sartori.network](https://www.sartori.network/) website. Each folder contains an ontology.
 
 ## Submit your own ontology
 
