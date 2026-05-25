@@ -1,0 +1,21 @@
+key,label,description,parent_category,notes,keywords
+C01,Constitutional Failure,A condition in which a constitutional system formally persists but substantively fails to constrain power coordinate institutions or protect foundational commitments,Foundation,Core concept,failure collapse
+C02,Bad-Faith Constitutional Actors,Political or institutional actors who strategically exploit constitutional rules gaps or ambiguities for private or factional advantage rather than constitutional compliance,Foundation,NAC affected,bad faith opportunism
+C03,Elite Capture,A process through which constitutional institutions are systematically dominated or controlled by a narrow group undermining accountability and representative governance,Foundation,Core Paper logic,capture elites
+C04,Rule Subversion,The manipulation selective enforcement or reinterpretation of constitutional rules preserving legality while eroding substantive order,Foundation,NAC affected,subversion manipulation
+C05,Fault Tolerance,A constitutional design principle enabling institutions to function under predictable failures including abuse non-compliance and bad-faith behavior,Design,Mitigates failure,resilience redundancy
+C06,Constitutional Redundancy,Deliberate duplication or overlap of constitutional functions to prevent single-point failure or capture,Design,Supports fault tolerance,redundancy backup
+C07,Fallback Constitutional Mechanisms,Secondary or reserve constitutional processes activating when primary mechanisms fail or deadlock,Design,Supports resilience,fallback recovery
+C08,Institutional Overlap,Partial sharing of constitutional authority enabling mutual monitoring and limiting power concentration,Design,Anti-capture,overlap checks
+C09,Nash Equilibrium (Constitutional Context),A stable strategic configuration where actors lack unilateral incentive to defect from constitutional constraints,Strategic,NEF interacts,equilibrium strategy
+C10,Self-Enforcing Constitutional Constraints,Constraints maintained by strategic incentives rather than moral commitment or external enforcement,Strategic,NEF mitigates,self enforcing incentives
+C11,Incentive Misalignment,A condition where constitutional rules generate incentives diverging from constitutional objectives,Strategic,NEF triggers,misalignment incentives
+C12,Power Fragmentation,Distribution of constitutional authority across multiple actors to limit domination and coordinated capture,Structural,Anti-capture,fragmentation diffusion
+C13,Anti-Capture Constitutional Design,Design strategies structurally resisting elite capture through redundancy fragmentation and adversarial arrangements,Structural,Core Paper logic,anti capture design
+C14,Emergency Degradation,Tendency of constitutional safeguards to weaken or be bypassed under emergency or crisis conditions,Structural,Stress-test mechanism,emergency exception
+C15,Constitutional Resilience,Capacity of a constitutional system to absorb shocks resist capture and recover without collapse,Outcome,Core Paper objective,resilience stability
+C16,Epistemic Stabilizer (NAC),A mechanism preventing epistemic collapse by stabilizing interpretation and implementation of constitutional rules,Advanced,Derived from Core Paper NAC logic,NAC epistemic
+C17,National Equilibrium Fund (NEF),A constitutional mechanism stabilizing strategic equilibrium and self-enforcing constraints nationally,Advanced,Derived from Core Paper NEF logic,NEF equilibrium
+C18,8-8-8 Symmetry Framework,A geometric institutional architecture distributing authority across mirrored executive legislative and judicial nodes,Structure,Institutional symmetry framework,888 symmetry
+C19,Compliance Trap,A structural vulnerability where constitutional survival depends on good-faith adherence actors have incentives to violate,Foundation,Failure-prone design,compliance norms
+C20,Institutionalized Distrust (IDT),A constitutional philosophy treating mutual distrust as a structural asset organizing adversarial monitoring and symmetric checks,Foundation,Theoretical core of Golden Phoenix Model,institutional distrust
