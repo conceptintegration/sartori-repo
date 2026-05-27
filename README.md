@@ -50,7 +50,7 @@ Other accepted columns:
 
 - `keywords`: concepts that are highly related, perhaps as hyponymns, hypernymns, or otherwise related.
 
-### [Click here to submit your ontology!](https://github.com/conceptintegration/ontology-repo-test/issues/new/choose) (GitHub account needed)
+### [Click here to submit your ontology!](https://github.com/conceptintegration/ontology-repo-test/issues/new?template=upload-your-ontology.md) (GitHub account needed)
 
 ## Funding Acknowledgement
 
